@@ -1,1 +1,1 @@
-print("Hi this is Husnain and this is my DSA project.git")
+print("Hi this is Husnain and this is my DSA project.")
