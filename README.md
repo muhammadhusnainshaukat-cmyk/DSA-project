@@ -16,4 +16,4 @@ A DSA-based in-memory ride-sharing system inspired by Uber/Careem.
 
 ## Contributors
 - Husnain
-- Partner Name
+- Jamshaid
